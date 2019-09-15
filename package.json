@@ -1,5 +1,5 @@
 {
-  "name": "d3-intro-empty",
+  "name": "d3-intro",
   "version": "1.0.0",
   "description": "Let's learn some d3.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": [
     "webpack",
-    "startkit",
+    "d3.js",
     "frontend",
     "es6",
     "javascript",

@@ -1,3 +1,5 @@
+// Basic styles
 import "../styles/main.scss"
 
-import "./1_04.js"
+// d3 script
+import "./2_03-beer.js"

@@ -1,1 +1,10 @@
-// 1_01 - Select
+// 1_01 - Selections
+
+/**
+ * **What we'll learn**
+ * * .select()
+ * * .selectAll()
+ * * .node()
+ * * .append()
+ * * .text() and .append()
+ */
