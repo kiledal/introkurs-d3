@@ -7,13 +7,17 @@
  * * .join()
  */
 
-import * as d3 from "d3"
+import * as d3 from 'd3'
 
-const adjektiv = ["beste", "kuleste", "definitivt lengste"]
+// Select <body>
+const body = d3.select('body')
 
-const body = d3.select("body")
+// Create four paragraphs
+body.append('p').html('Jeg er det <strong>første</strong> tekstelementet')
+body.append('p').html('Jeg er det <strong>andre</strong> tekstelementet')
+body.append('p').html('Jeg er det <strong>tredje</strong> tekstelementet')
+body.append('p').html('Jeg er det <strong>fjerde</strong> tekstelementet')
 
-body.append("p").html("Jeg er det <strong>første</strong> tekstelementet")
-body.append("p").html("Jeg er det <strong>andre</strong> tekstelementet")
-body.append("p").html("Jeg er det <strong>tredje</strong> tekstelementet")
-body.append("p").html("Jeg er det <strong>fjerde</strong> tekstelementet")
+// Select all paragraphs and change their content
+
+//
