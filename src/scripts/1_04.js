@@ -1,11 +1,13 @@
 // 1_04 – databehandling
 
 /**
+ * * .dsv()
  * * .max()
  * * .min()
  * * .extent()
- * * .mean() .median() .mode()
+ * * .mean()
+ * * .median()
  *
  */
 
-import * as d3 from 'd3'
+import * as d3 from "d3"

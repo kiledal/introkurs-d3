@@ -1,5 +1,16 @@
 // 1_03 - Scales
 
-import * as d3 from 'd3'
+/**
+ * **What we'll learn**
+ * * .scaleLinear()
+ * * .scaleTime()
+ * * .scalePow()
+ * * .scaleSqrt()
+ * * .scalePoint()
+ *
+ * * .domain()
+ * * .range()
+ * * .invert()
+ */
 
-const actualHeight = 185 // cm
+import * as d3 from "d3"

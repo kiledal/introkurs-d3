@@ -6,5 +6,5 @@
  * * .selectAll()
  * * .node()
  * * .append()
- * * .text() and .append()
+ * * .text() and .html()
  */
